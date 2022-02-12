@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 import 'react-toastify/dist/ReactToastify.css';
@@ -15,13 +14,6 @@ function App() {
         <Routes/>
       </BrowserRouter>
     </AuthProvider>
-=======
-function App() {
-  return (
-    <div>
-      <h1>TESTE</h1>
-    </div>
->>>>>>> 2579691d332cb9400c1bac1855d7f09c4ffcdac3
   );
 }
 
